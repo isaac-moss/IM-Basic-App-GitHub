@@ -11,6 +11,7 @@ IM_Basic_App_GitHub.Basic_Webform" %>
  <% IM_Basic_App_GitHub.Class1 tp = new IM_Basic_App_GitHub.Class1(); %>
  
  <%=tp.Name %>
+     Push to featA
  </div>
  </form>
 </body>
